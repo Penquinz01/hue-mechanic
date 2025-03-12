@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public interface IGreen
+public interface IColor
 {
     void Initialize();
 }
